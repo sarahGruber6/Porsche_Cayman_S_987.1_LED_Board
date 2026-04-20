@@ -1,0 +1,3 @@
+CR2450 3V, 600mAh
+ATtiny1616 MCU 
+
